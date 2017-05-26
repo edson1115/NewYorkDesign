@@ -1,0 +1,10 @@
+/*#design img {
+  background-image: url("css/images/the-flatiron-building.png");
+}
+*/
+
+body {
+  background-image: url("css/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+
+}
