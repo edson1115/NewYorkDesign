@@ -1,0 +1,72 @@
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  text-decoration: underline;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white!;
+}
+
+#process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#identify {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+#smallFont {
+  text-decoration: none;
+  font-family: Helvetica;
+  font-size: 14px;
+  color: black;
+}
+
+#understand {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+#designHeader {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+}
+
+#lower {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-decoration: none;
+}
+
+em {
+  font-family: Helvetica;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+  font-style: normal;
+}
